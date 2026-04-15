@@ -9,7 +9,7 @@ I build AI-native products, automation platforms, and marketplace systems in B2B
 - **Workflow Engines** — Event-driven automation, SCIM/API provisioning, multi-tenant enterprise infrastructure. Took Zluri's automation platform from ~$200K to ~$3M ARR.
 
 **How I work:**  
-I instrument everything, write real PRDs, partner closely with engineering, and iterate on data — not intuition alone. I care about what moves the needle: activation, adoption, ARR.
+Signal first approach, I instrument everything, write real PRDs, partner closely with the customer, engineering, and design, and iterate on data, not intuition alone. I care about what moves the needle: activation, adoption, ARR.
 
 **Currently exploring:** AI agent systems for ops/support, API-first micro-SaaS, and platform extensibility patterns.  
 **Excited about:** Voice AI — real-time speech interfaces, voice-native product design, and where conversational AI goes when it stops being text-first.
